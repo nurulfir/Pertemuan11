@@ -38,3 +38,4 @@
 
 ### Flowchartnya :
 
+![Alt text](Praktikum/Flowchart.png)
